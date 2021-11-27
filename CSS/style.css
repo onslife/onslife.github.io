@@ -55,6 +55,12 @@ a {
 #check {
     display: none;
 }
+
+.fotoku{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
 .sidebar{
     position: fixed;
     top: 0;
